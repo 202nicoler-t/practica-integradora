@@ -1,0 +1,7 @@
+empleado_id,nombre,edad,departamento,ciudad,anios_experiencia,antiguedad_empresa,salario_mensual,satisfaccion_laboral,fecha_ingreso
+E1,Ana,25,Ventas,CDMX,2,1,18000.0,4,2023-01-15
+E2,Luis,34,TI,Monterrey,8,4,35000.0,5,2021-06-01
+E3,Ana,25,Ventas,CDMX,2,1,18000.0,4,2023-01-15
+E2,Luis,34,TI,Monterrey,8,4,35000.0,5,2021-06-01
+E4,Marta,150,RRHH,Guadalajara,-1,2,,3,2022-03-10
+E5,Carlos,29,TI,CDMX,5,3,250000.0,2,2020-09-20
